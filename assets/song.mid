@@ -1,0 +1,2 @@
+description: "A MIDI file corresponding to the 'song.mp3' asset. It should contain a single track with simple quarter and eighth notes that match the melody of the song. The notes should be spread across a few different pitches to map to 4 different lanes in a rhythm game. The MIDI should start on the first beat of the song. 120 BPM."
+
